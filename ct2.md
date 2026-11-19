@@ -1,5 +1,6 @@
 1.
-cd C:\Users\thezo\library-app
+cd "C:\Users\thezo\Desktop\Новая папка (2)\ct2"
+mvnw.cmd clean package
 java -jar target\library-app-0.0.1-SNAPSHOT.jar --server.port=8080
 <img width="1900" height="340" alt="image" src="https://github.com/user-attachments/assets/313a0a11-dd93-4ffb-8df2-7ae3d7bd99ac" />
 2.
